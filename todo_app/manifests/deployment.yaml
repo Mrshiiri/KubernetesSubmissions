@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: todo-app
-          image: mrshiiri/todo-app:1
+          image: mrshiiri/todo-app:2
