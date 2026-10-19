@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: log-output
-          image: mrshiiri/log-output:1
+          image: mrshiiri/log-output:2
